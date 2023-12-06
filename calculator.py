@@ -34,7 +34,7 @@ while True:
     print("6.Remainder: % ")
     print("7.Terminate: # ")
     print("8.Reset    : $ ")
-    choice=input("please enter your arithmetic operator")
+    choice=input("please enter your arithmetic operator : ")
     if(choice=="#"):
        break
     elif(choice=="$"):
